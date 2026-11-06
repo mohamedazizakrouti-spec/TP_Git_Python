@@ -1,3 +1,5 @@
 print("=== Mon assistant de revision ===")
 print("Bienvenue dans le programme !")
 print(f"Bonjour {nom} ! Bon courage pour tes revisions.")
+matiere = input("Quelle matiere revises-tu ? ")
+print(f"Tu revises : {matiere}.")
